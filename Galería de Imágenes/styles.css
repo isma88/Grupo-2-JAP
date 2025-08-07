@@ -13,8 +13,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   font-family: Arial, Helvetica, sans-serif;
   text-decoration: none;
   color: rgb(255, 255, 255);
-  border: 1px solid rgb(54, 24, 219);
-  background-color: #2320b8;
+  border: 1px solid rgb(167, 6, 118);
+  background-color: #e768dd;
   padding: 5px;
   border-radius: 5px;
   box-shadow: 2px 3px #252525;
@@ -22,7 +22,6 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .link-button:hover {
-  background: #221ee9;
+  background: #b30ea5;
   transform: translateY(-2px);
 }
-
