@@ -4,7 +4,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(240, 18, 147);
     border-radius: 10px;
     height: 400px;
 }
