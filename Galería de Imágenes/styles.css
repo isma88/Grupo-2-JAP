@@ -16,6 +16,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 .image{
+    display: block;
+    margin: 0 auto;
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
