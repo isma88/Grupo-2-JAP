@@ -14,6 +14,8 @@ body {
 }
 
 .image{
+     display: block;
+    margin: 0 auto;
     border: 5px solid rgb(240, 18, 147);
     border-radius: 10px;
     height: 400px;
